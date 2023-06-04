@@ -1,0 +1,5 @@
+*nohup.out
+*__pycache__*
+log-*
+python/view_data
+python/pymp*
